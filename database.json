@@ -1,0 +1,33 @@
+{
+    "tables": {
+        "employees": {
+            "columns": [
+                [
+                    "ID",
+                    "int"
+                ],
+                [
+                    "name",
+                    "str"
+                ],
+                [
+                    "department",
+                    "str"
+                ],
+                [
+                    "salary",
+                    "int"
+                ],
+                [
+                    "age",
+                    "int"
+                ],
+                [
+                    "active",
+                    "bool"
+                ]
+            ],
+            "data": []
+        }
+    }
+}

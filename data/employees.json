@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 1,
+        "name": "Иван Иванов",
+        "department": "IT",
+        "salary": 55000,
+        "age": 28,
+        "active": true
+    },
+    {
+        "ID": 3,
+        "name": "Мария Сидорова",
+        "department": "IT",
+        "salary": 52000,
+        "age": 30,
+        "active": false
+    },
+    {
+        "ID": 4,
+        "name": "Новый Сотрудник",
+        "department": "Finance",
+        "salary": 48000,
+        "age": 25,
+        "active": false
+    }
+]
